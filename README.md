@@ -1,4 +1,5 @@
 <p align="center"><a href="https://github.com/BotsClub/"><img src="https://img.shields.io/badge/𝕸𝖚𝖐𝖊𝖘𝖍%20𝕾𝖔𝖑𝖆𝖓𝖐𝖎-gold?&style=flat-square?&logo=github" width=600px></a></p>
+<p align="center"><a href="https://github.com/BotsClub/"><img src="https://telegra.ph/file/f567c2a3f334423ba928d.png"></a></p>
 
 #
 
